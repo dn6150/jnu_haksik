@@ -1,1 +1,1 @@
-web: yarn start:production
+web: python chatgee/run_server.py
